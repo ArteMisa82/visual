@@ -14,7 +14,7 @@ public class ClasePruebaXD {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Clase XD 
+        // Clase XD
     }
     
 }
