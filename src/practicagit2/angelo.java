@@ -9,6 +9,5 @@ package practicagit2;
  * @author Usuario
  */
 public class angelo {
-   
-    //Hola
+    
 }
