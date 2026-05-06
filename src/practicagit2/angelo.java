@@ -9,5 +9,8 @@ package practicagit2;
  * @author Usuario
  */
 public class angelo {
-    
+  public void prueba(){
+    System.out.println("Hola a todos");
+    //Hola
+}
 }
