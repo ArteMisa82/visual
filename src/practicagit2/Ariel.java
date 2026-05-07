@@ -16,8 +16,16 @@ public class Ariel {
         JOptionPane.showMessageDialog(null, "Nuevas modificaciones");
     }
     
+    public static void prevencion(){
+        try{
+            modificaciones();
+        }catch(Exception e){
+            JOptionPane.showMessageDialog(null, "Error: "+e);
+        }
+    }
+    
     public static void main(String[] args){
         //JOptionPane.showMessageDialog(null, "Todo ok");
-        modificaciones();
+        prevencion();
     }
 }
