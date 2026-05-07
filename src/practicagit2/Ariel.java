@@ -4,10 +4,15 @@
  */
 package practicagit2;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Ariel
  */
 public class Ariel {
     
+    public static void main(String[] args){
+        JOptionPane.showMessageDialog(null, "Todo ok");
+    }
 }
