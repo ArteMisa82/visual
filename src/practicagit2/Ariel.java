@@ -12,7 +12,12 @@ import javax.swing.JOptionPane;
  */
 public class Ariel {
     
+    public static void modificaciones(){
+        JOptionPane.showMessageDialog(null, "Nuevas modificaciones");
+    }
+    
     public static void main(String[] args){
-        JOptionPane.showMessageDialog(null, "Todo ok");
+        //JOptionPane.showMessageDialog(null, "Todo ok");
+        modificaciones();
     }
 }
