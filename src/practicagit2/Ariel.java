@@ -14,6 +14,7 @@ public class Ariel {
     
     public static void modificaciones(){
         JOptionPane.showMessageDialog(null, "Nuevas modificaciones");
+        JOptionPane.showMessageDialog(null, "Mas modificaciones");
     }
     
     public static void prevencion(){
